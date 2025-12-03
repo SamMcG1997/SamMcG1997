@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Sam McGuire 👋
+### Under Development
+I am currently working as an Economist providing technical support to the Central Bank of Somaliland as an ODI Fellow. Previously I worked in various Economist roles in the UK Civil Service. 
+I am passionate about developing my technical skills and applying them to research problems or to improve efficiencies. 
 
-<!--
-**SamMcG1997/SamMcG1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 Current Projects
+- An Enumerator Quality Control Web App:
+  Saving time and automating part of the QC process, under development and any input is very welcome. 
+- Night-Time Lights as a proxy for Economic Development in Somaliland:
+  Research paper to help understand the geographic disparities of economic activity in Somaliland as GDP statistics are unsuitable. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️Skill Development
+Always keen to develop my skills, particularly around geospatial analysis and ML uses for data analysis. So please reach out if you have something which could contribute to my existing projects. (I should probably continue to develop my web based skills too). 
+
+### Papers & Writing:
+Coming soon.
+
+### Repositories:
+Coming soon.
