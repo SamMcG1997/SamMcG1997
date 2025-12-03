@@ -10,7 +10,7 @@ I am passionate about developing my technical skills and applying them to resear
   Research paper to help understand the geographic disparities of economic activity in Somaliland as GDP statistics are unsuitable. 
 
 
-⚙️ Skill Development
+⚙️ Skill Development  
 Always keen to develop my skills, particularly around geospatial analysis and ML uses for data analysis. So please reach out if you have something which could contribute to my existing projects. (I should probably continue to develop my web based skills too). 
 
 ### Papers & Writing:
