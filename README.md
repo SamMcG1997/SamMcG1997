@@ -22,6 +22,7 @@ I should probably continue to develop my web based skills too. 😅
 
 ### Repositories:
 * [Night Time Light Analysis of Somaliland](https://github.com/SamMcG1997/NTL_Somaliland)
+* [Automated Quality Control for Enumerators (Ongoing)](https://github.com/SamMcG1997/Enumerator_Auto_Survey_QC)
 
 ### Papers & Writing:
-Coming soon!
+* NTL paper coming soon!
